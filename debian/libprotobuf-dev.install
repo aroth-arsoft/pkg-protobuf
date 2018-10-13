@@ -1,0 +1,15 @@
+usr/lib/*/libprotobuf.a
+usr/lib/*/libprotobuf-lite.a
+usr/lib/*/libprotobuf.so
+usr/lib/*/libprotobuf-lite.so
+usr/lib/*/pkgconfig/*
+usr/include/google/protobuf/generated_enum_util.h
+usr/include/google/protobuf/generated_message_util.h
+usr/include/google/protobuf/stubs/stl_util.h
+usr/include/google/protobuf/stubs/template_util.h
+usr/include/google/protobuf/util/delimited_message_util.h
+usr/include/google/protobuf/util/field_mask_util.h
+usr/include/google/protobuf/util/json_util.h
+usr/include/google/protobuf/util/time_util.h
+usr/include/google/protobuf/util/type_resolver_util.h
+usr/include/google/protobuf/*
