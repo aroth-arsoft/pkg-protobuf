@@ -44,3 +44,4 @@
 /six.BUILD
 /tests.sh
 /update_file_lists.sh
+/autom4te.cache/
